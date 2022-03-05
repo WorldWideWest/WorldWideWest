@@ -44,7 +44,7 @@ Data Analytics was the first step to becoming a developer, and I started off by 
 </p>
 
 <p>
-And the other project that I'm proud of is the implementation of the KMEANS algorithm on a customer dataset where I clustered the types of customers in separate groups <a href="https://github.com/WorldWideWest/marketingAutomation/">Marketing Automation</a>
+And the other project that I'm proud of is the implementation of the KMEANS algorithm on a customer dataset where I clustered the types of customers in separate groups <a href="https://github.com/WorldWideWest/K-Means-Mall-Customers">Clustering</a>
 </p>
 
 
