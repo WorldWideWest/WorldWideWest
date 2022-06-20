@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dženan Džafić</h1>
-<h3 align="center">I'm a passionate Backend & Machine Learning Developer with experience in Python, Java, JavaScript programming languages.</h3>
+<h3 align="center">I'm a passionate Backend & Machine Learning Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
